@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # laboratoriska2
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Lab2-MIS
+Labratory 2 for MIS
+>>>>>>> e978e6b7098c8f8eea4556a023c9b7d0803f5922
